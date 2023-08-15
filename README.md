@@ -1,2 +1,3 @@
 # dotfile
-my dotfile
+### Shell: zsh
+
